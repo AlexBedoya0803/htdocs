@@ -1,0 +1,5 @@
+<?php 
+
+    include 'consumiendoAPI.php';
+
+?>
